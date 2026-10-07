@@ -1,0 +1,7 @@
+{
+  "klusters": "neurosuite/neurosuite",
+  "libneurosuite": "neurosuite/neurosuite",
+  "ndmanager": "neurosuite/neurosuite",
+  "ndmanager-plugins": "neurosuite/neurosuite",
+  "neuroscope": "neurosuite/neurosuite"
+}
